@@ -3,6 +3,10 @@ package hxPromiseThenable;
 import js.lib.Promise;
 import hxThenable.Thenable;
 
+/**
+	Implenents thenable interface by js Promises
+	see hxThenable.Themable declaration
+**/
 class PromiseThenable<T> implements Thenable<T> {
 
 	private var v : Promise<T>;
