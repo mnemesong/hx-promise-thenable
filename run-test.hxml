@@ -1,0 +1,7 @@
+--library hx-thenable
+--library hxnodejs
+--class-path hx/src
+--class-path hx/test
+--main hxPromiseThenableTest.HxPromiseThenableTest
+--js js/run-test.js
+--cmd "node ./js/run-test"

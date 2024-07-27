@@ -1,0 +1,19 @@
+{
+    "name": "hx-promise-thenable",
+    "license": "MIT",
+    "tags": [
+        "hx-promise-thenable",
+        "hxPromiseThenable"
+    ],
+    "description": "Thenable implementation by js Promises",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See https://github.com/mnemesong/hx-promise-thenable/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "https://github.com/mnemesong/hx-promise-thenable",
+    "classPath": "hx/src",
+    "dependencies": {
+        "hx-thenable": ""
+    }
+}
